@@ -6,7 +6,7 @@
 | Ubuntu 22.04.2 |
 | CPU |	2 |
 | RAM	| 4 GB |
-| Storage	|  GB SSD |
+| Storage	| 80 GB SSD |
 
 # Rusku İndiriyoruz.
 

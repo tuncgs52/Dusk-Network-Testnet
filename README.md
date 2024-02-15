@@ -63,8 +63,15 @@ grep "block accepted" /var/log/rusk.log
 ```
 
 "Height" Explorerdakiyle Aynı ise işlemlere devam edin.
+[EXPLORER LİNK](https://explorer.dusk.network/)
+
 ![Screenshot_2024-02-15-22-50-02-931-edit_com server auditor ssh client](https://github.com/tuncgs52/Dusk-Network-Testnet/assets/80161670/db278e2d-d332-4042-92c6-34f4a4e9c8ef)
 
-[EXPLORER LİNK](https://explorer.dusk.network/)
+Linkten Cüzdanınıza Faucet Alın.
+Fauceti Şöyle Alacaksınız Ss Atıyorum.
+Link:[FAUCET](https://faucet.dusk.network/#)
+![Screenshot_2024-02-15-23-08-23-974-edit_com twitter android](https://github.com/tuncgs52/Dusk-Network-Testnet/assets/80161670/a4f87cf3-ffc3-4887-b49a-a3b0dc7b365a)
+
+
 
 
